@@ -40,8 +40,8 @@ Ideal für Freelancer, Handwerksbetriebe und KMU, die Excel behalten möchten un
 
 | Datei | Beschreibung |
 |---|---|
-| `ExcelRechnung_Setup_v1.0.exe` | Windows Installer (Setup) |
-| `ExcelRechnung_v1.0.dmg` | macOS App |
+| `ExcelRechnung_Setup_v1.2.exe` | Windows Installer (Setup) |
+| `ExcelRechnung_v1.2.dmg` | macOS App |
 | `Musterrechnung.xlsx` | Excel-Vorlage zum Starten |
 | `ExcelRechnung.bas` | Excel Add-in (VBA-Modul, manuelle Installation) |
 | `Installationsanleitung_ExcelRechnung.pdf` | Schritt-für-Schritt Anleitung |
