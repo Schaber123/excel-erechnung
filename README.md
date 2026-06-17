@@ -87,21 +87,6 @@ Sie können weiterhin 5 Rechnungen/Monat kostenlos erstellen.
 
 ---
 
-## Alternativen im Vergleich
-
-| | Excel eRechnung Tool | Mustang Project | PDF24 | WISO MeinBüro |
-|---|---|---|---|---|
-| Excel-Vorlage behalten | ✅ | ❌ | ❌ | ❌ |
-| Offline / keine Cloud | ✅ | ✅ | ❌ | ❌ |
-| KoSIT-Validator integriert | ✅ | ✅ | ❌ | ✅ |
-| XRechnung | ✅ | ✅ | ✅ | ✅ |
-| ZUGFeRD-PDF | ✅ | ✅ | ✅ | ✅ |
-| Kein Abo nötig | ✅ | ✅ | ✅ | ❌ |
-| Windows + macOS | ✅ | ✅ | ✅ | ❌ |
-| Freemium | ✅ | ✅ | ✅ | ❌ |
-
----
-
 ## Hersteller
 
 **Tech-IT Consulting — Markus Gehring**  
