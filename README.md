@@ -22,6 +22,7 @@ Ideal für Freelancer, Handwerksbetriebe und KMU, die Excel behalten möchten un
 - ✅ **Excel Add-in** für direkten Export aus der Tabelle (VBA-Modul)
 - ✅ **Eigene Excel-Vorlage** weiterverwenden — konfigurierbares Mapping, einmalig einrichten
 - ✅ **Vollständig offline** — keine Daten verlassen den PC, keine Cloud-Abhängigkeit
+- ✅ **Mehrere Firmen** in einer Installation — je Firma eigene Stammdaten und eigene Excel-Vorlage
 - ✅ **Windows 10/11 + macOS** — keine Python-Installation nötig
 
 ---
@@ -40,11 +41,11 @@ Ideal für Freelancer, Handwerksbetriebe und KMU, die Excel behalten möchten un
 
 | Datei | Beschreibung |
 |---|---|
-| `ExcelRechnung_Setup_v1.2.exe` | Windows Installer (Setup) |
-| `ExcelRechnung_v1.2.dmg` | macOS App |
+| `ExcelRechnung_Setup_v1.5.exe` | Windows Installer (Setup) |
+| `ExcelRechnung_v1.5.dmg` | macOS App |
 | `Musterrechnung.xlsx` | Excel-Vorlage zum Starten |
 | `ExcelRechnung.bas` | Excel Add-in (VBA-Modul, manuelle Installation) |
-| `Installationsanleitung_ExcelRechnung.pdf` | Schritt-für-Schritt Anleitung |
+| `Installationsanleitung_ExcelRechnung_V1.5.pdf` | Schritt-für-Schritt Anleitung |
 
 👉 [Alle Downloads auf der Release-Seite](../../releases/latest)
 
@@ -52,11 +53,13 @@ Ideal für Freelancer, Handwerksbetriebe und KMU, die Excel behalten möchten un
 
 ## Preise
 
-| Plan | Preis | Rechnungen | Besonderheit |
-|---|---|---|---|
-| **Kostenlos** | 0 € | 5 / Monat | XRechnung + ZUGFeRD, KoSIT-Validierung, PDF mit Wasserzeichen |
-| **Standard** | 129 € / Jahr | Unbegrenzt | Ohne Wasserzeichen, E-Mail-Support, Updates für 1 Jahr |
-| **Lifetime** | 249 € einmalig | Unbegrenzt | Lifetime-Updates, E-Mail-Support, kein Abo |
+| Plan | Firmen | Preis | Rechnungen | Besonderheit |
+|---|---|---|---|---|
+| **Kostenlos** | 1 | 0 € | 5 / Monat | XRechnung + ZUGFeRD, KoSIT-Validierung, PDF mit Wasserzeichen |
+| **Standard** | 1 | 129 € / Jahr | Unbegrenzt | Ohne Wasserzeichen, E-Mail-Support, Updates für 1 Jahr |
+| **Lifetime** | 1 | 249 € einmalig | Unbegrenzt | Lifetime-Updates, E-Mail-Support, kein Abo |
+| **Mehrfirmen** | bis 3 | 179 € / Jahr oder 349 € einmalig | Unbegrenzt | Firmen-Umschalter, je Firma eigene Vorlage |
+| **Büro** | unbegrenzt | 299 € / Jahr oder 599 € einmalig | Unbegrenzt | Für Buchhaltungsbüros und Dienstleister |
 
 Alle Preise zzgl. MwSt. → [Jetzt kaufen](https://www.techit-consulting.de/excel-erechnung.html#pricing)
 
@@ -75,6 +78,9 @@ Alle Preise zzgl. MwSt. → [Jetzt kaufen](https://www.techit-consulting.de/exce
 
 **Funktioniert das Tool mit meiner bestehenden Excel-Vorlage?**  
 Ja. Das Mapping wird einmalig eingerichtet, danach läuft alles automatisch.
+
+**Kann ich Rechnungen für mehrere Firmen erstellen?**  
+Ja. Standard und Lifetime gelten für 1 Firma, Mehrfirmen für bis zu 3 und Büro für unbegrenzt viele Firmen. Gezählt wird der Rechnungsabsender (USt-IdNr.).
 
 **Ist die erzeugte XRechnung normkonform?**  
 Ja. Jede Rechnung wird automatisch durch den offiziellen KoSIT-Validator geprüft.
