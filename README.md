@@ -1,4 +1,4 @@
-# Excel eRechnung Tool
+# Excel eRechnung Tool V1.6
 
 **XRechnung & ZUGFeRD direkt aus Excel erstellen — offline, ohne ERP-Wechsel, mit KoSIT-Validierung.**
 
@@ -13,6 +13,16 @@ Das **Excel eRechnung Tool** ist ein Desktop-Konverter für Windows und macOS, d
 Ideal für Freelancer, Handwerksbetriebe und KMU, die Excel behalten möchten und trotzdem die **eRechnungspflicht ab 2025** erfüllen müssen.
 
 ---
+
+## Neu in Version 1.6
+
+- Positionsrabatte und Gesamtrabatte als Prozentsatz und/oder Betrag
+- Unterschiedliche Umsatzsteuersätze pro Position, einschließlich zugeordnetem Gesamtrabatt
+- Gutschriften, Abschlagsrechnungen und Schlussrechnungen mit Verrechnung bereits gezahlter Abschläge
+- Optionaler Leistungszeitraum und abweichende Lieferanschrift
+- Bearbeitbarer Verkäuferkontakt und erweiterte Mengeneinheiten
+- Verbesserter PDF-Export einzelner Rechnungsblätter
+- Neue Musterrechnung mit passender Mapping-Datei und aktualisierte Anleitung
 
 ## Features
 
@@ -41,11 +51,12 @@ Ideal für Freelancer, Handwerksbetriebe und KMU, die Excel behalten möchten un
 
 | Datei | Beschreibung |
 |---|---|
-| `ExcelRechnung_Setup_v1.5.exe` | Windows Installer (Setup) |
-| `ExcelRechnung_v1.5.dmg` | macOS App |
-| `Musterrechnung.xlsx` | Excel-Vorlage zum Starten |
+| `ExcelRechnung_Setup_v1.6.exe` | Windows Installer (Setup) |
+| `ExcelRechnung_v1.6.dmg` | macOS App |
+| `Musterrechnung_V1.6.xlsx` | Excel-Vorlage für V1.6 |
+| `excel_mapping_Musterrechnung_V1.6.yaml` | Passende Feldzuordnung zur Musterrechnung |
 | `ExcelRechnung.bas` | Excel Add-in (VBA-Modul, manuelle Installation) |
-| `Installationsanleitung_ExcelRechnung_V1.5.pdf` | Schritt-für-Schritt Anleitung |
+| `Installationsanleitung_ExcelRechnung_V1.6.pdf` | Schritt-für-Schritt Anleitung |
 
 👉 [Alle Downloads auf der Release-Seite](../../releases/latest)
 
